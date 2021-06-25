@@ -1,0 +1,81 @@
+body{
+    font-family: Arial, Tahoma, serif;
+    font-size: 30px;
+    margin: auto;
+}
+
+#main{
+    width: 1000px;
+    padding: 0;
+    /*margin-left: auto;*/
+    margin: auto;
+}
+
+#head{
+    height: 150px;
+    background-color: #F5F5F5;
+    border: 1px solid #CDCDCD;
+    margin: auto;
+    /*margin-bottom: auto;*/
+}
+
+#head-link{
+    height: 70px;
+    line-height: 0;
+    text-align: center;
+    /*padding-left: 226px;*/
+    /*padding-right: 10px;*/
+    border: 10px solid #CDCDCD;
+    background-color: #bbbbbb;
+    margin: auto;
+    /*margin-bottom: auto;*/
+    clear: both;
+
+}
+
+#left{
+    width: 212px;
+    text-align: center;
+    /*padding-left:px;*/
+    min-height: 650px;
+    background-color: #98c77e;
+    float: left;
+    border: 1px solid #CDCDCD;
+    margin: auto;
+    /*margin-bottom: auto;*/
+}
+
+#right{
+    text-align: center;
+    width: 200px;
+    min-height: 650px;
+    float: right;
+    border: 1px solid #CDCDCD;
+    background-color: #98c77e;
+    margin: auto;
+    /*margin-bottom: auto;*/
+}
+
+#content{
+    background-color: #747474;
+    margin: auto;
+    text-align: center;
+    width: 582px;
+    min-height: 600px;
+    float: left;
+    border: 1px solid #CDCDCD;
+    /*margin-bottom: 5px;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+}
+
+
+h2 { color: #006d16;}
+h4 { text-align: center;
+    color: #212020}
+h3 { text-align: center;
+        color: #0c2738
+}
+h5  { text-align: center;
+        color: #212020
+}
